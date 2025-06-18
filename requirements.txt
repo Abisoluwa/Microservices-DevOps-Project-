@@ -1,0 +1,6 @@
+wikipedia==1.4.0 
+pytest==8.4.1 - #testing
+pytest-cov==6.2.1 - #coverage tool
+pylint==3.3.7 - #linting tool
+black==25.1.0 - #formatting tool 
+fire==0.7.0 - #CLI tool
