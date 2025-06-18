@@ -1,4 +1,5 @@
 # Microservices-DevOps-Project-
+This project involves building a cloud-native microservice application with python on AWS.
 
 #Project_Scaffold 
 - Makefile
